@@ -1,0 +1,4 @@
+assignment/*
+!assignment/*.*
+assignment/*.cpp:tests
+test.cpp
